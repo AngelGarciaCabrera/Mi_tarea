@@ -1,0 +1,87 @@
+.Card-head{
+    background-color: cadetblue;
+    font-style: 'Courier New', Courier, monospace;
+    border-style:solid;
+}
+.Fotos{
+    height: 200px;
+    width: 200px;
+    padding: auto;
+    padding-left: 25px;
+    padding-top: 25px;
+    
+   
+}
+.fondo{
+    
+    border-color: black;
+    background-color: dimgray;
+    padding: auto;
+    position: absolute;
+    right:550px ;
+    left: 550px ;
+   
+    border-style: solid;
+
+
+}
+.card-body{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 25px;
+    padding: auto;
+    right: 25px;
+}
+.sub-titulo{
+   padding-left: 25px;
+   
+  
+   font-family: 'Courier New', Courier, monospace;
+}
+.parrafo{
+    padding-left: 25px;
+    padding-right: 25px;
+   font-family: 'Courier New', Courier, monospace;
+}
+.Li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+.Li{
+    float: left;
+}
+.menu{
+   
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0eaf94;
+}
+
+.menu li a:hover {
+    background-color: #0b7c69;
+}
+.titulo{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.Fotos1{
+    height: 80px;width: 80px;
+    padding-left: 25px;
+    padding-top: 25px;
+}
+.a{
+float: left;
+padding-left: 45px;
+padding-right: 45px;
+
+}
+.parrafo1{
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+}
